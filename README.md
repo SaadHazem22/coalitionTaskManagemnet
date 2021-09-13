@@ -18,3 +18,7 @@ Project Dependinces
 4. Sanctum
 5. tailwind
 6. guzzle
+
+Cloning the Project 
+run git clone https://github.com/SaadHazem22/coalitionTaskManagemnet.git
+
