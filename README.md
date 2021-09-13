@@ -10,3 +10,11 @@ run composer dump
 Remove packages.lock 
 run npm install 
 run npm run dev 
+
+Project Dependinces  
+1. Jetstream 
+2. Liverwire
+3. Livewire Srotable 
+4. Sanctum
+5. tailwind
+6. guzzle
